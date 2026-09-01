@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Screenshot visual diffs</title>
+    <style>
+      :root { color-scheme: light; font-family: system-ui, sans-serif; color: #172b3f; background: #eef3f8; }
+      body { margin: 0; padding: 2rem; }
+      h1 { margin: 0 0 .35rem; }
+      .intro { margin: 0 0 1.5rem; color: #52677c; }
+      .summary { display: flex; flex-wrap: wrap; gap: .65rem; margin-bottom: 1.5rem; }
+      .summary span, .status { padding: .3rem .6rem; border-radius: 999px; background: #dce8f3; font-weight: 650; }
+      .comparison { margin: 0 0 1.5rem; padding: 1rem; border: 1px solid #b8c9dc; border-radius: 6px; background: #fff; }
+      .comparison > header { display: flex; align-items: center; flex-wrap: wrap; gap: .75rem; margin-bottom: .8rem; }
+      .comparison h2 { margin: 0 auto 0 0; font: 700 1rem ui-monospace, monospace; }
+      .comparison--added .status { background: #d8f0dc; color: #155c25; }
+      .comparison--removed .status { background: #f5d9d9; color: #8b2020; }
+      .comparison--changed .status { background: #ffe8b8; color: #704900; }
+      .panels { display: grid; grid-template-columns: repeat(3, minmax(260px, 1fr)); gap: 1rem; align-items: start; }
+      figure { min-width: 0; margin: 0; }
+      figcaption { margin-bottom: .4rem; font-weight: 650; }
+      a { display: block; }
+      img { display: block; width: 100%; height: auto; border: 1px solid #aebfd2; background: #fff; }
+      .missing { display: grid; min-height: 10rem; place-items: center; border: 1px dashed #aebfd2; color: #6d7f90; background: #f6f8fa; }
+      .empty { padding: 2rem; border: 1px solid #b8c9dc; border-radius: 6px; background: #fff; }
+      @media (max-width: 900px) { body { padding: 1rem; } .panels { grid-template-columns: 1fr; } }
+    </style>
+  </head>
+  <body>
+    <h1>Screenshot visual diffs</h1>
+    <p class="intro">Preview screenshots compared pixel-by-pixel with the deployed <a href="../../main/screenshots/">main baseline</a>. Pink pixels differ.</p>
+    <div class="summary">
+      <span>25 changed</span><span>0 added</span><span>0 removed</span><span>130 unchanged</span>
+    </div>
+    <main>
+      <article id="se01" class="comparison comparison--changed">
+        <header><h2>se01</h2><span class="status">changed</span><span>14167 pixels (1.09%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/se01.png"><img src="../../main/screenshots/se01.png" alt="se01 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/se01.png"><img src="../screenshots/se01.png" alt="se01 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/se01.png"><img src="images/se01.png" alt="se01 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="se09" class="comparison comparison--changed">
+        <header><h2>se09</h2><span class="status">changed</span><span>20988 pixels (1.62%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/se09.png"><img src="../../main/screenshots/se09.png" alt="se09 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/se09.png"><img src="../screenshots/se09.png" alt="se09 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/se09.png"><img src="images/se09.png" alt="se09 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="se11" class="comparison comparison--changed">
+        <header><h2>se11</h2><span class="status">changed</span><span>17883 pixels (1.38%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/se11.png"><img src="../../main/screenshots/se11.png" alt="se11 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/se11.png"><img src="../screenshots/se11.png" alt="se11 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/se11.png"><img src="images/se11.png" alt="se11 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="se16" class="comparison comparison--changed">
+        <header><h2>se16</h2><span class="status">changed</span><span>17202 pixels (1.33%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/se16.png"><img src="../../main/screenshots/se16.png" alt="se16 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/se16.png"><img src="../screenshots/se16.png" alt="se16 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/se16.png"><img src="images/se16.png" alt="se16 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="se38" class="comparison comparison--changed">
+        <header><h2>se38</h2><span class="status">changed</span><span>17480 pixels (1.35%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/se38.png"><img src="../../main/screenshots/se38.png" alt="se38 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/se38.png"><img src="../screenshots/se38.png" alt="se38 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/se38.png"><img src="images/se38.png" alt="se38 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_058" class="comparison comparison--changed">
+        <header><h2>zgg_ex_058</h2><span class="status">changed</span><span>3789 pixels (0.29%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_058.png"><img src="../../main/screenshots/zgg_ex_058.png" alt="zgg_ex_058 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_058.png"><img src="../screenshots/zgg_ex_058.png" alt="zgg_ex_058 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_058.png"><img src="images/zgg_ex_058.png" alt="zgg_ex_058 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_064" class="comparison comparison--changed">
+        <header><h2>zgg_ex_064</h2><span class="status">changed</span><span>3883 pixels (0.30%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_064.png"><img src="../../main/screenshots/zgg_ex_064.png" alt="zgg_ex_064 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_064.png"><img src="../screenshots/zgg_ex_064.png" alt="zgg_ex_064 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_064.png"><img src="images/zgg_ex_064.png" alt="zgg_ex_064 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_099" class="comparison comparison--changed">
+        <header><h2>zgg_ex_099</h2><span class="status">changed</span><span>13289 pixels (1.03%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_099.png"><img src="../../main/screenshots/zgg_ex_099.png" alt="zgg_ex_099 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_099.png"><img src="../screenshots/zgg_ex_099.png" alt="zgg_ex_099 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_099.png"><img src="images/zgg_ex_099.png" alt="zgg_ex_099 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_100" class="comparison comparison--changed">
+        <header><h2>zgg_ex_100</h2><span class="status">changed</span><span>6251 pixels (0.48%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_100.png"><img src="../../main/screenshots/zgg_ex_100.png" alt="zgg_ex_100 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_100.png"><img src="../screenshots/zgg_ex_100.png" alt="zgg_ex_100 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_100.png"><img src="images/zgg_ex_100.png" alt="zgg_ex_100 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_101" class="comparison comparison--changed">
+        <header><h2>zgg_ex_101</h2><span class="status">changed</span><span>6859 pixels (0.53%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_101.png"><img src="../../main/screenshots/zgg_ex_101.png" alt="zgg_ex_101 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_101.png"><img src="../screenshots/zgg_ex_101.png" alt="zgg_ex_101 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_101.png"><img src="images/zgg_ex_101.png" alt="zgg_ex_101 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_102" class="comparison comparison--changed">
+        <header><h2>zgg_ex_102</h2><span class="status">changed</span><span>5020 pixels (0.39%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_102.png"><img src="../../main/screenshots/zgg_ex_102.png" alt="zgg_ex_102 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_102.png"><img src="../screenshots/zgg_ex_102.png" alt="zgg_ex_102 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_102.png"><img src="images/zgg_ex_102.png" alt="zgg_ex_102 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_103" class="comparison comparison--changed">
+        <header><h2>zgg_ex_103</h2><span class="status">changed</span><span>4274 pixels (0.33%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_103.png"><img src="../../main/screenshots/zgg_ex_103.png" alt="zgg_ex_103 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_103.png"><img src="../screenshots/zgg_ex_103.png" alt="zgg_ex_103 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_103.png"><img src="images/zgg_ex_103.png" alt="zgg_ex_103 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_104" class="comparison comparison--changed">
+        <header><h2>zgg_ex_104</h2><span class="status">changed</span><span>6448 pixels (0.50%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_104.png"><img src="../../main/screenshots/zgg_ex_104.png" alt="zgg_ex_104 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_104.png"><img src="../screenshots/zgg_ex_104.png" alt="zgg_ex_104 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_104.png"><img src="images/zgg_ex_104.png" alt="zgg_ex_104 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_105" class="comparison comparison--changed">
+        <header><h2>zgg_ex_105</h2><span class="status">changed</span><span>13079 pixels (1.01%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_105.png"><img src="../../main/screenshots/zgg_ex_105.png" alt="zgg_ex_105 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_105.png"><img src="../screenshots/zgg_ex_105.png" alt="zgg_ex_105 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_105.png"><img src="images/zgg_ex_105.png" alt="zgg_ex_105 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_106" class="comparison comparison--changed">
+        <header><h2>zgg_ex_106</h2><span class="status">changed</span><span>18764 pixels (1.45%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_106.png"><img src="../../main/screenshots/zgg_ex_106.png" alt="zgg_ex_106 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_106.png"><img src="../screenshots/zgg_ex_106.png" alt="zgg_ex_106 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_106.png"><img src="images/zgg_ex_106.png" alt="zgg_ex_106 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_107" class="comparison comparison--changed">
+        <header><h2>zgg_ex_107</h2><span class="status">changed</span><span>13079 pixels (1.01%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_107.png"><img src="../../main/screenshots/zgg_ex_107.png" alt="zgg_ex_107 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_107.png"><img src="../screenshots/zgg_ex_107.png" alt="zgg_ex_107 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_107.png"><img src="images/zgg_ex_107.png" alt="zgg_ex_107 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_108" class="comparison comparison--changed">
+        <header><h2>zgg_ex_108</h2><span class="status">changed</span><span>5751 pixels (0.44%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_108.png"><img src="../../main/screenshots/zgg_ex_108.png" alt="zgg_ex_108 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_108.png"><img src="../screenshots/zgg_ex_108.png" alt="zgg_ex_108 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_108.png"><img src="images/zgg_ex_108.png" alt="zgg_ex_108 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_109" class="comparison comparison--changed">
+        <header><h2>zgg_ex_109</h2><span class="status">changed</span><span>5554 pixels (0.43%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_109.png"><img src="../../main/screenshots/zgg_ex_109.png" alt="zgg_ex_109 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_109.png"><img src="../screenshots/zgg_ex_109.png" alt="zgg_ex_109 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_109.png"><img src="images/zgg_ex_109.png" alt="zgg_ex_109 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_110" class="comparison comparison--changed">
+        <header><h2>zgg_ex_110</h2><span class="status">changed</span><span>4669 pixels (0.36%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_110.png"><img src="../../main/screenshots/zgg_ex_110.png" alt="zgg_ex_110 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_110.png"><img src="../screenshots/zgg_ex_110.png" alt="zgg_ex_110 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_110.png"><img src="images/zgg_ex_110.png" alt="zgg_ex_110 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_111" class="comparison comparison--changed">
+        <header><h2>zgg_ex_111</h2><span class="status">changed</span><span>4545 pixels (0.35%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_111.png"><img src="../../main/screenshots/zgg_ex_111.png" alt="zgg_ex_111 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_111.png"><img src="../screenshots/zgg_ex_111.png" alt="zgg_ex_111 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_111.png"><img src="images/zgg_ex_111.png" alt="zgg_ex_111 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_112" class="comparison comparison--changed">
+        <header><h2>zgg_ex_112</h2><span class="status">changed</span><span>5377 pixels (0.41%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_112.png"><img src="../../main/screenshots/zgg_ex_112.png" alt="zgg_ex_112 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_112.png"><img src="../screenshots/zgg_ex_112.png" alt="zgg_ex_112 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_112.png"><img src="images/zgg_ex_112.png" alt="zgg_ex_112 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_113" class="comparison comparison--changed">
+        <header><h2>zgg_ex_113</h2><span class="status">changed</span><span>5404 pixels (0.42%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_113.png"><img src="../../main/screenshots/zgg_ex_113.png" alt="zgg_ex_113 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_113.png"><img src="../screenshots/zgg_ex_113.png" alt="zgg_ex_113 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_113.png"><img src="images/zgg_ex_113.png" alt="zgg_ex_113 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_114" class="comparison comparison--changed">
+        <header><h2>zgg_ex_114</h2><span class="status">changed</span><span>5404 pixels (0.42%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_114.png"><img src="../../main/screenshots/zgg_ex_114.png" alt="zgg_ex_114 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_114.png"><img src="../screenshots/zgg_ex_114.png" alt="zgg_ex_114 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_114.png"><img src="images/zgg_ex_114.png" alt="zgg_ex_114 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_115" class="comparison comparison--changed">
+        <header><h2>zgg_ex_115</h2><span class="status">changed</span><span>5404 pixels (0.42%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_115.png"><img src="../../main/screenshots/zgg_ex_115.png" alt="zgg_ex_115 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_115.png"><img src="../screenshots/zgg_ex_115.png" alt="zgg_ex_115 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_115.png"><img src="images/zgg_ex_115.png" alt="zgg_ex_115 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_116" class="comparison comparison--changed">
+        <header><h2>zgg_ex_116</h2><span class="status">changed</span><span>5681 pixels (0.44%)</span></header>
+        <div class="panels">
+          <figure><figcaption>Main baseline</figcaption><a href="../../main/screenshots/zgg_ex_116.png"><img src="../../main/screenshots/zgg_ex_116.png" alt="zgg_ex_116 on main" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Preview</figcaption><a href="../screenshots/zgg_ex_116.png"><img src="../screenshots/zgg_ex_116.png" alt="zgg_ex_116 in preview" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_116.png"><img src="images/zgg_ex_116.png" alt="zgg_ex_116 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>
