@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Screenshot visual diffs</title>
+    <style>
+      :root { color-scheme: light; font-family: system-ui, sans-serif; color: #172b3f; background: #eef3f8; }
+      body { margin: 0; padding: 2rem; }
+      h1 { margin: 0 0 .35rem; }
+      .intro { margin: 0 0 1.5rem; color: #52677c; }
+      .summary { display: flex; flex-wrap: wrap; gap: .65rem; margin-bottom: 1.5rem; }
+      .summary span, .status { padding: .3rem .6rem; border-radius: 999px; background: #dce8f3; font-weight: 650; }
+      .comparison { margin: 0 0 1.5rem; padding: 1rem; border: 1px solid #b8c9dc; border-radius: 6px; background: #fff; }
+      .comparison > header { display: flex; align-items: center; flex-wrap: wrap; gap: .75rem; margin-bottom: .8rem; }
+      .comparison h2 { margin: 0 auto 0 0; font: 700 1rem ui-monospace, monospace; }
+      .comparison--added .status { background: #d8f0dc; color: #155c25; }
+      .comparison--removed .status { background: #f5d9d9; color: #8b2020; }
+      .comparison--changed .status { background: #ffe8b8; color: #704900; }
+      .panels { display: grid; grid-template-columns: repeat(3, minmax(260px, 1fr)); gap: 1rem; align-items: start; }
+      figure { min-width: 0; margin: 0; }
+      figcaption { margin-bottom: .4rem; font-weight: 650; }
+      a { display: block; }
+      img { display: block; width: 100%; height: auto; border: 1px solid #aebfd2; background: #fff; }
+      .missing { display: grid; min-height: 10rem; place-items: center; border: 1px dashed #aebfd2; color: #6d7f90; background: #f6f8fa; }
+      .empty { padding: 2rem; border: 1px solid #b8c9dc; border-radius: 6px; background: #fff; }
+      @media (max-width: 900px) { body { padding: 1rem; } .panels { grid-template-columns: 1fr; } }
+    </style>
+  </head>
+  <body>
+    <h1>Screenshot visual diffs</h1>
+    <p class="intro">Preview screenshots compared pixel-by-pixel with the deployed <a href="../../main/screenshots/">main baseline</a>. Pink pixels differ.</p>
+    <div class="summary">
+      <span>0 changed</span><span>0 added</span><span>0 removed</span><span>155 unchanged</span>
+    </div>
+    <main>
+      <p class="empty">No visual differences detected.</p>
+    </main>
+  </body>
+</html>
