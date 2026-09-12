@@ -17,6 +17,7 @@
       .comparison--added .status { background: #d8f0dc; color: #155c25; }
       .comparison--removed .status { background: #f5d9d9; color: #8b2020; }
       .comparison--changed .status { background: #ffe8b8; color: #704900; }
+      .dimensions { flex-basis: 100%; color: #52677c; font: .85rem ui-monospace, monospace; }
       .panels { display: grid; grid-template-columns: repeat(3, minmax(260px, 1fr)); gap: 1rem; align-items: start; }
       figure { min-width: 0; margin: 0; }
       figcaption { margin-bottom: .4rem; font-weight: 650; }
@@ -29,7 +30,7 @@
   </head>
   <body>
     <h1>Screenshot visual diffs</h1>
-    <p class="intro">Preview screenshots compared pixel-by-pixel with the deployed <a href="../../main/screenshots/">main baseline</a>. Pink pixels differ.</p>
+    <p class="intro">Browser screenshots compared pixel-by-pixel with the native reference set. Pink pixels differ. Content region: full image.</p>
     <div class="summary">
       <span>0 changed</span><span>0 added</span><span>0 removed</span><span>155 unchanged</span>
     </div>

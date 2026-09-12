@@ -1,8 +1,2956 @@
 {
   "compared": 155,
   "differences": 0,
+  "contentRegion": null,
   "added": 0,
   "removed": 0,
   "changed": 0,
-  "unchanged": 155
+  "unchanged": 155,
+  "comparisons": [
+    {
+      "name": "se01.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "se09.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "se11.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "se16.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "se38.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_001.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_002.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_003.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_004.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_005.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_006.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_007.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_008.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_009.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_010.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_011.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_012.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_013.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_014.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_015.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_016.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_017.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_018.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_019.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_020.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_021.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_022.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_023.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_024.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_025.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_026.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_027.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_028.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_029.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_030.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_031.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_032.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_033.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_034.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_035.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_036.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_037.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_038.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_039.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_040.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_041.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_042.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_043.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_044.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_045.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_046.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_047.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_048.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_049.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_050.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_051.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_052.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_053.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_054.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_055.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_056.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_057.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_058.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_059.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_060.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_061.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_062.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_063.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_064.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_066.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_067.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_068.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_069.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_070.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_071.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_072.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_073.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_074.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_075.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_076.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_077.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_078.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_079.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_080.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_081.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_082.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_083.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_084.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_085.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_086.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_087.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_088.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_089.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_090.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_091.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_092.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_093.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_094.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_095.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_096.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_097.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_098.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_099.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_100.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_101.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_102.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_103.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_104.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_105.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_106.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_107.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_108.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_109.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_110.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_111.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_112.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_113.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_114.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_115.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_116.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_117.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_118.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_119.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_120.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_121.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_122.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_123.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_124.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_125.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_126.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_127.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_128.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_129.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_130.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_131.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_132.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_133.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_134.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_135.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_136.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_137.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_138.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_139.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_140.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_141.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_142.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_143.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_144.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_145.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_146.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_147.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_148.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_149.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_150.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    },
+    {
+      "name": "zgg_ex_151.png",
+      "status": "unchanged",
+      "changedPixels": 0,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null
+    }
+  ]
 }
