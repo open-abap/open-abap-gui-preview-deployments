@@ -1,11 +1,11 @@
 {
   "compared": 163,
-  "differences": 8,
+  "differences": 35,
   "contentRegion": null,
   "added": 8,
   "removed": 0,
-  "changed": 0,
-  "unchanged": 155,
+  "changed": 27,
+  "unchanged": 128,
   "comparisons": [
     {
       "name": "se01.png",
@@ -2289,8 +2289,8 @@
     },
     {
       "name": "zgg_ex_117.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7403,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2308,8 +2308,8 @@
     },
     {
       "name": "zgg_ex_118.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 9620,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2327,8 +2327,8 @@
     },
     {
       "name": "zgg_ex_119.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7048,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2346,8 +2346,8 @@
     },
     {
       "name": "zgg_ex_120.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 5575,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2365,8 +2365,8 @@
     },
     {
       "name": "zgg_ex_121.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 6625,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2384,8 +2384,8 @@
     },
     {
       "name": "zgg_ex_122.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7942,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2403,8 +2403,8 @@
     },
     {
       "name": "zgg_ex_123.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7932,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2422,8 +2422,8 @@
     },
     {
       "name": "zgg_ex_124.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 8486,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2441,8 +2441,8 @@
     },
     {
       "name": "zgg_ex_125.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 12588,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2460,8 +2460,8 @@
     },
     {
       "name": "zgg_ex_126.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7252,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2479,8 +2479,8 @@
     },
     {
       "name": "zgg_ex_127.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 5355,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2498,8 +2498,8 @@
     },
     {
       "name": "zgg_ex_128.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 11838,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2555,8 +2555,8 @@
     },
     {
       "name": "zgg_ex_131.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 73167,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2574,8 +2574,8 @@
     },
     {
       "name": "zgg_ex_132.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 13754,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2593,8 +2593,8 @@
     },
     {
       "name": "zgg_ex_133.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7103,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2612,8 +2612,8 @@
     },
     {
       "name": "zgg_ex_134.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 13139,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2631,8 +2631,8 @@
     },
     {
       "name": "zgg_ex_135.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 70475,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2650,8 +2650,8 @@
     },
     {
       "name": "zgg_ex_136.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 80204,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2669,8 +2669,8 @@
     },
     {
       "name": "zgg_ex_137.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 81603,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2688,8 +2688,8 @@
     },
     {
       "name": "zgg_ex_138.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 115656,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2707,8 +2707,8 @@
     },
     {
       "name": "zgg_ex_139.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 78563,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2726,8 +2726,8 @@
     },
     {
       "name": "zgg_ex_140.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 6661,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2745,8 +2745,8 @@
     },
     {
       "name": "zgg_ex_141.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 6969,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2764,8 +2764,8 @@
     },
     {
       "name": "zgg_ex_142.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 8979,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2783,8 +2783,8 @@
     },
     {
       "name": "zgg_ex_143.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 8437,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2878,8 +2878,8 @@
     },
     {
       "name": "zgg_ex_148.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7589,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2897,8 +2897,8 @@
     },
     {
       "name": "zgg_ex_149.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 12747,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2955,7 +2955,7 @@
     {
       "name": "zgg_ex_152.png",
       "status": "added",
-      "changedPixels": 257356,
+      "changedPixels": 258122,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2971,7 +2971,7 @@
     {
       "name": "zgg_ex_153.png",
       "status": "added",
-      "changedPixels": 379035,
+      "changedPixels": 379823,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -3003,7 +3003,7 @@
     {
       "name": "zgg_ex_155.png",
       "status": "added",
-      "changedPixels": 264321,
+      "changedPixels": 265089,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -3019,7 +3019,7 @@
     {
       "name": "zgg_ex_156.png",
       "status": "added",
-      "changedPixels": 258412,
+      "changedPixels": 260972,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
