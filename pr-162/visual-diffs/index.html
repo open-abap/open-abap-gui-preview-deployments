@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Screenshot visual diffs</title>
+    <style>
+      :root { color-scheme: light; font-family: system-ui, sans-serif; color: #172b3f; background: #eef3f8; }
+      body { margin: 0; padding: 2rem; }
+      h1 { margin: 0 0 .35rem; }
+      .intro { margin: 0 0 1.5rem; color: #52677c; }
+      .summary { display: flex; flex-wrap: wrap; gap: .65rem; margin-bottom: 1.5rem; }
+      .summary span, .status { padding: .3rem .6rem; border-radius: 999px; background: #dce8f3; font-weight: 650; }
+      .comparison { margin: 0 0 1.5rem; padding: 1rem; border: 1px solid #b8c9dc; border-radius: 6px; background: #fff; }
+      .comparison > header { display: flex; align-items: center; flex-wrap: wrap; gap: .75rem; margin-bottom: .8rem; }
+      .comparison h2 { margin: 0 auto 0 0; font: 700 1rem ui-monospace, monospace; }
+      .comparison--added .status { background: #d8f0dc; color: #155c25; }
+      .comparison--removed .status { background: #f5d9d9; color: #8b2020; }
+      .comparison--changed .status { background: #ffe8b8; color: #704900; }
+      .dimensions { flex-basis: 100%; color: #52677c; font: .85rem ui-monospace, monospace; }
+      .panels { display: grid; grid-template-columns: repeat(3, minmax(260px, 1fr)); gap: 1rem; align-items: start; }
+      figure { min-width: 0; margin: 0; }
+      figcaption { margin-bottom: .4rem; font-weight: 650; }
+      a { display: block; }
+      img { display: block; width: 100%; height: auto; border: 1px solid #aebfd2; background: #fff; }
+      .missing { display: grid; min-height: 10rem; place-items: center; border: 1px dashed #aebfd2; color: #6d7f90; background: #f6f8fa; }
+      .empty { padding: 2rem; border: 1px solid #b8c9dc; border-radius: 6px; background: #fff; }
+      @media (max-width: 900px) { body { padding: 1rem; } .panels { grid-template-columns: 1fr; } }
+    </style>
+  </head>
+  <body>
+    <h1>Screenshot visual diffs</h1>
+    <p class="intro">Browser screenshots compared pixel-by-pixel with the native reference set. Pink pixels differ. Content region: full image.</p>
+    <div class="summary">
+      <span>0 changed</span><span>8 added</span><span>0 removed</span><span>155 unchanged</span>
+    </div>
+    <main>
+      <article id="zgg_ex_152" class="comparison comparison--added">
+        <header><h2>zgg_ex_152</h2><span class="status">added</span><span>257356 pixels (19.86%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_152.png"><img src="../screenshots/zgg_ex_152.png" alt="zgg_ex_152 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_152.png"><img src="images/zgg_ex_152.png" alt="zgg_ex_152 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_153" class="comparison comparison--added">
+        <header><h2>zgg_ex_153</h2><span class="status">added</span><span>379035 pixels (29.25%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_153.png"><img src="../screenshots/zgg_ex_153.png" alt="zgg_ex_153 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_153.png"><img src="images/zgg_ex_153.png" alt="zgg_ex_153 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_154" class="comparison comparison--added">
+        <header><h2>zgg_ex_154</h2><span class="status">added</span><span>273504 pixels (21.10%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_154.png"><img src="../screenshots/zgg_ex_154.png" alt="zgg_ex_154 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_154.png"><img src="images/zgg_ex_154.png" alt="zgg_ex_154 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_155" class="comparison comparison--added">
+        <header><h2>zgg_ex_155</h2><span class="status">added</span><span>264321 pixels (20.40%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_155.png"><img src="../screenshots/zgg_ex_155.png" alt="zgg_ex_155 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_155.png"><img src="images/zgg_ex_155.png" alt="zgg_ex_155 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_156" class="comparison comparison--added">
+        <header><h2>zgg_ex_156</h2><span class="status">added</span><span>258412 pixels (19.94%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_156.png"><img src="../screenshots/zgg_ex_156.png" alt="zgg_ex_156 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_156.png"><img src="images/zgg_ex_156.png" alt="zgg_ex_156 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_157" class="comparison comparison--added">
+        <header><h2>zgg_ex_157</h2><span class="status">added</span><span>259392 pixels (20.01%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_157.png"><img src="../screenshots/zgg_ex_157.png" alt="zgg_ex_157 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_157.png"><img src="images/zgg_ex_157.png" alt="zgg_ex_157 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_158" class="comparison comparison--added">
+        <header><h2>zgg_ex_158</h2><span class="status">added</span><span>260085 pixels (20.07%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_158.png"><img src="../screenshots/zgg_ex_158.png" alt="zgg_ex_158 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_158.png"><img src="images/zgg_ex_158.png" alt="zgg_ex_158 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+      <article id="zgg_ex_159" class="comparison comparison--added">
+        <header><h2>zgg_ex_159</h2><span class="status">added</span><span>262136 pixels (20.23%)</span><span class="dimensions">Native reference: not present - Browser: 1440 x 900</span></header>
+        <div class="panels">
+          <figure><figcaption>Native reference</figcaption><div class="missing">Not present</div></figure>
+          <figure><figcaption>Browser</figcaption><a href="../screenshots/zgg_ex_159.png"><img src="../screenshots/zgg_ex_159.png" alt="zgg_ex_159 in browser" width="1440" height="900" loading="lazy"></a></figure>
+          <figure><figcaption>Visual diff</figcaption><a href="images/zgg_ex_159.png"><img src="images/zgg_ex_159.png" alt="zgg_ex_159 visual difference" width="1440" height="900" loading="lazy"></a></figure>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>
