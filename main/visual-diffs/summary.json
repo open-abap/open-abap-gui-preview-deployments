@@ -1,16 +1,16 @@
 {
   "compared": 165,
-  "differences": 2,
+  "differences": 0,
   "contentRegion": null,
   "masks": {
     "version": 1,
     "policy": "Only documented volatile regions may be masked; the report work area, controls, labels, row data, state, focus, and geometry are never maskable.",
     "regions": []
   },
-  "added": 2,
+  "added": 0,
   "removed": 0,
   "changed": 0,
-  "unchanged": 163,
+  "unchanged": 165,
   "comparisons": [
     {
       "name": "se01.png",
@@ -3600,14 +3600,17 @@
     },
     {
       "name": "zgg_int_dynpro.png",
-      "status": "added",
-      "changedPixels": 1246533,
+      "status": "unchanged",
+      "changedPixels": 0,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
         "height": 900
       },
-      "baselineDimensions": null,
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
       "currentDimensions": {
         "width": 1440,
         "height": 900
@@ -3619,14 +3622,17 @@
     },
     {
       "name": "zgg_int_html_report.png",
-      "status": "added",
-      "changedPixels": 203520,
+      "status": "unchanged",
+      "changedPixels": 0,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
         "height": 900
       },
-      "baselineDimensions": null,
+      "baselineDimensions": {
+        "width": 1440,
+        "height": 900
+      },
       "currentDimensions": {
         "width": 1440,
         "height": 900
