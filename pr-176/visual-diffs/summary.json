@@ -1,13 +1,13 @@
 {
-  "compared": 168,
-  "differences": 1,
+  "compared": 169,
+  "differences": 2,
   "contentRegion": null,
   "masks": {
     "version": 1,
     "policy": "Only documented volatile regions may be masked; the report work area, controls, labels, row data, state, focus, and geometry are never maskable.",
     "regions": []
   },
-  "added": 1,
+  "added": 2,
   "removed": 0,
   "changed": 0,
   "unchanged": 167,
@@ -3646,6 +3646,25 @@
       "name": "zgg_ex_162.png",
       "status": "added",
       "changedPixels": 1207304,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_163.png",
+      "status": "added",
+      "changedPixels": 1246533,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
