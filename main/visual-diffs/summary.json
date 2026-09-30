@@ -1,16 +1,16 @@
 {
-  "compared": 169,
-  "differences": 1,
+  "compared": 170,
+  "differences": 3,
   "contentRegion": null,
   "masks": {
     "version": 1,
     "policy": "Only documented volatile regions may be masked; the report work area, controls, labels, row data, state, focus, and geometry are never maskable.",
     "regions": []
   },
-  "added": 0,
+  "added": 1,
   "removed": 0,
-  "changed": 1,
-  "unchanged": 168,
+  "changed": 2,
+  "unchanged": 167,
   "comparisons": [
     {
       "name": "se01.png",
@@ -1268,8 +1268,8 @@
     },
     {
       "name": "zgg_ex_053.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 7364,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -1334,8 +1334,8 @@
     },
     {
       "name": "zgg_ex_056.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 1047629,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -3666,8 +3666,8 @@
     },
     {
       "name": "zgg_ex_163.png",
-      "status": "changed",
-      "changedPixels": 112559,
+      "status": "unchanged",
+      "changedPixels": 0,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -3677,6 +3677,25 @@
         "width": 1440,
         "height": 900
       },
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_164.png",
+      "status": "added",
+      "changedPixels": 250902,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
       "currentDimensions": {
         "width": 1440,
         "height": 900
