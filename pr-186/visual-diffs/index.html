@@ -8,6 +8,8 @@
       :root { color-scheme: light; font-family: system-ui, sans-serif; color: #172b3f; background: #eef3f8; }
       body { margin: 0; padding: 2rem; }
       h1 { margin: 0 0 .35rem; }
+      .generated { margin: 0 0 .5rem; color: #52677c; font-weight: 650; }
+      .generated time { color: #172b3f; }
       .intro { margin: 0 0 1.5rem; color: #52677c; }
       .summary { display: flex; flex-wrap: wrap; gap: .65rem; margin-bottom: 1.5rem; }
       .summary span, .status { padding: .3rem .6rem; border-radius: 999px; background: #dce8f3; font-weight: 650; }
@@ -30,6 +32,24 @@
   </head>
   <body>
     <h1>Screenshot visual diffs</h1>
+    <p class="generated">Generated <time id="generated-at" datetime="2026-10-03T12:10:14.000Z" title="2026-10-03 12:10 UTC">2026-10-03 12:10 UTC</time></p>
+    <script>
+      // Shows the age of the data when the page is viewed; without scripts the
+      // absolute time above stays.
+      (() => {
+        const element = document.getElementById("generated-at");
+        const generated = Date.parse(element.dateTime);
+        const format = new Intl.RelativeTimeFormat("en", {numeric: "auto"});
+        const units = [["year", 31536000], ["month", 2592000], ["week", 604800], ["day", 86400], ["hour", 3600], ["minute", 60]];
+        function render() {
+          const seconds = Math.round((generated - Date.now()) / 1000);
+          const [unit, size] = units.find(([, size]) => Math.abs(seconds) >= size) || ["second", 1];
+          element.textContent = Math.abs(seconds) < 60 ? "just now" : format.format(Math.round(seconds / size), unit);
+        }
+        render();
+        setInterval(render, 60000);
+      })();
+    </script>
     <p class="intro">Browser screenshots compared pixel-by-pixel with the native reference set. Pink pixels differ. Content region: separate native/browser regions; native content region: full image; browser content region: full image. Semantic masks: none.</p>
     <div class="summary">
       <span>2 changed</span><span>0 added</span><span>0 removed</span><span>168 unchanged</span>
