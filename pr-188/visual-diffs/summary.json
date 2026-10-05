@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T08:32:01.000Z",
+  "generatedAt": "2026-10-05T09:10:06.000Z",
   "compared": 190,
   "differences": 130,
   "contentRegion": null,
@@ -2348,7 +2348,7 @@
     {
       "name": "zgg_ex_083.png",
       "status": "changed",
-      "changedPixels": 51530,
+      "changedPixels": 56401,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -2392,7 +2392,7 @@
     {
       "name": "zgg_ex_085.png",
       "status": "changed",
-      "changedPixels": 4025,
+      "changedPixels": 6040,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
