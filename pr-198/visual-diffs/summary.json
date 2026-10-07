@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T08:52:25.000Z",
+  "generatedAt": "2026-10-07T09:16:33.000Z",
   "compared": 197,
   "differences": 197,
   "contentRegion": null,
@@ -3228,7 +3228,7 @@
     {
       "name": "zgg_ex_123.png",
       "status": "changed",
-      "changedPixels": 1817,
+      "changedPixels": 6302,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
