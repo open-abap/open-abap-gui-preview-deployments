@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:23:31.000Z",
+  "generatedAt": "2026-10-11T12:52:05.000Z",
   "compared": 197,
   "differences": 1,
   "contentRegion": null,
@@ -4218,7 +4218,7 @@
     {
       "name": "zgg_ex_168.png",
       "status": "changed",
-      "changedPixels": 49,
+      "changedPixels": 122,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
