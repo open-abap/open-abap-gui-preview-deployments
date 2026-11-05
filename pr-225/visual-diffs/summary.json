@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-05T15:00:44.000Z",
-  "compared": 233,
-  "differences": 21,
+  "generatedAt": "2026-11-05T16:27:30.000Z",
+  "compared": 234,
+  "differences": 22,
   "contentRegion": null,
   "masks": {
     "version": 1,
     "policy": "Only documented volatile regions may be masked; the report work area, controls, labels, row data, state, focus, and geometry are never maskable.",
     "regions": []
   },
-  "added": 17,
+  "added": 18,
   "removed": 0,
   "changed": 4,
   "unchanged": 212,
@@ -5029,6 +5029,25 @@
       "name": "zgg_ex_206.png",
       "status": "added",
       "changedPixels": 217064,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_207.png",
+      "status": "added",
+      "changedPixels": 218566,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
