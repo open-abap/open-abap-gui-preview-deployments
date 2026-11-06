@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-05T16:30:05.000Z",
-  "compared": 234,
-  "differences": 22,
+  "generatedAt": "2026-11-06T11:14:43.000Z",
+  "compared": 241,
+  "differences": 29,
   "contentRegion": null,
   "masks": {
     "version": 1,
     "policy": "Only documented volatile regions may be masked; the report work area, controls, labels, row data, state, focus, and geometry are never maskable.",
     "regions": []
   },
-  "added": 18,
+  "added": 25,
   "removed": 0,
   "changed": 4,
   "unchanged": 212,
@@ -4240,7 +4240,7 @@
     {
       "name": "zgg_ex_168.png",
       "status": "changed",
-      "changedPixels": 172,
+      "changedPixels": 164,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -5048,6 +5048,139 @@
       "name": "zgg_ex_207.png",
       "status": "added",
       "changedPixels": 218566,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_208.png",
+      "status": "added",
+      "changedPixels": 218159,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_209.png",
+      "status": "added",
+      "changedPixels": 217987,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_210.png",
+      "status": "added",
+      "changedPixels": 216786,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_211.png",
+      "status": "added",
+      "changedPixels": 249004,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_212.png",
+      "status": "added",
+      "changedPixels": 1235238,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_213.png",
+      "status": "added",
+      "changedPixels": 215907,
+      "totalPixels": 1296000,
+      "dimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "baselineDimensions": null,
+      "currentDimensions": {
+        "width": 1440,
+        "height": 900
+      },
+      "contentRegion": null,
+      "baselineRegion": null,
+      "currentRegion": null,
+      "masks": []
+    },
+    {
+      "name": "zgg_ex_214.png",
+      "status": "added",
+      "changedPixels": 247698,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
