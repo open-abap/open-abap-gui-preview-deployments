@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T10:56:51.000Z",
+  "generatedAt": "2026-11-27T11:51:31.000Z",
   "compared": 243,
-  "differences": 81,
+  "differences": 83,
   "contentRegion": null,
   "masks": {
     "version": 1,
@@ -10,8 +10,8 @@
   },
   "added": 0,
   "removed": 0,
-  "changed": 81,
-  "unchanged": 162,
+  "changed": 83,
+  "unchanged": 160,
   "comparisons": [
     {
       "name": "se01.png",
@@ -3359,8 +3359,8 @@
     },
     {
       "name": "zgg_ex_128.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 3237,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
@@ -3865,8 +3865,8 @@
     },
     {
       "name": "zgg_ex_151.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 4102,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
