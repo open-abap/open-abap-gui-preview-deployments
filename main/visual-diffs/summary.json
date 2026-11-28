@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T11:06:05.000Z",
+  "generatedAt": "2026-11-28T11:27:01.000Z",
   "compared": 243,
-  "differences": 0,
+  "differences": 1,
   "contentRegion": null,
   "masks": {
     "version": 1,
@@ -10,8 +10,8 @@
   },
   "added": 0,
   "removed": 0,
-  "changed": 0,
-  "unchanged": 243,
+  "changed": 1,
+  "unchanged": 242,
   "comparisons": [
     {
       "name": "se01.png",
@@ -4745,8 +4745,8 @@
     },
     {
       "name": "zgg_ex_191.png",
-      "status": "unchanged",
-      "changedPixels": 0,
+      "status": "changed",
+      "changedPixels": 206,
       "totalPixels": 1296000,
       "dimensions": {
         "width": 1440,
